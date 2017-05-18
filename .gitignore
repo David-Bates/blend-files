@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+*.blend1
+*.blend2
+
+Thumbs.db
